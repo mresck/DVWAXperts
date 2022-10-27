@@ -11,6 +11,6 @@ scanners:
  - iac
  - container
 dast:
- url: http://XXXXXXXXXXXXXXXX:8081/
+ url: http://fgtASG-f5337620-frontend-elb-3481752239ac3eac.elb.us-east-1.amazonaws.com:8081/
  fortipentest_scanner: false #true|false
  full_scan: true #true|false
